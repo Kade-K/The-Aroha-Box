@@ -4,7 +4,9 @@
 # Stake Holders
 
 -Kiri Russel
+
 -Sister
+
 -Xavier Annandale
 
 ## Project Manager
